@@ -1,0 +1,13 @@
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.csproj.AssemblyReference.cache
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.AssemblyInfoInputs.cache
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.AssemblyInfo.cs
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.sourcelink.json
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\bin\Release\net9.0\Jellyfin.Plugin.PosterRotator.deps.json
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\bin\Release\net9.0\Jellyfin.Plugin.PosterRotator.dll
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\bin\Release\net9.0\Jellyfin.Plugin.PosterRotator.pdb
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.dll
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\refint\Jellyfin.Plugin.PosterRotator.dll
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\Jellyfin.Plugin.PosterRotator.pdb
+C:\Users\Admin\Projects\posterrotator\jellyfin-plugin-poster-rotator\src\Jellyfin.Plugin.PosterRotator\obj\Release\net9.0\ref\Jellyfin.Plugin.PosterRotator.dll

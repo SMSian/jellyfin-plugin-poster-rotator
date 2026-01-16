@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Version>1.0.1.0</Version>
@@ -11,16 +11,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Configuration\config.html" />
-    <EmbeddedResource Include="Configuration\config.html">
+    <None Remove="Web\config.html" />
+    <EmbeddedResource Include="Web\config.html">
       <LogicalName>Jellyfin.Plugin.PosterRotator.Configuration.config.html</LogicalName>
     </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Jellyfin.Model" Version="10.10.3" />
-    <PackageReference Include="Jellyfin.Controller" Version="10.10.3" />
-    <PackageReference Include="Jellyfin.Common" Version="10.10.3" />
-    <PackageReference Include="Jellyfin.Extensions" Version="10.10.3" />
+    <PackageReference Include="Jellyfin.Model" Version="10.11.5" />
+    <PackageReference Include="Jellyfin.Controller" Version="10.11.5" />
+    <PackageReference Include="Jellyfin.Common" Version="10.11.5" />
+    <PackageReference Include="Jellyfin.Extensions" Version="10.11.5" />
   </ItemGroup>
 </Project>
